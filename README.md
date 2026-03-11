@@ -1,6 +1,11 @@
 # paper-a-week
 
+[![GitHub stars](https://img.shields.io/github/stars/bkmashiro/paper-a-week?style=social)](https://github.com/bkmashiro/paper-a-week)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > One ML/systems paper implemented per week — in under 300 lines of Python.
+
+**[⭐ Star on GitHub](https://github.com/bkmashiro/paper-a-week)** if you find this useful!
 
 Focus areas: **Deep Learning · MLSys · LLM Systems · Distributed Systems**
 
