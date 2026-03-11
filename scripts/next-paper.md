@@ -1,8 +1,10 @@
 # Paper Queue
 
-## Upcoming
+## Done
 
-- 002: LoRA: Low-Rank Adaptation of Large Language Models (2022)
+- 002: LoRA: Low-Rank Adaptation of Large Language Models (2021) ✅
+
+## Upcoming
 - 003: FlashAttention: Fast and Memory-Efficient Exact Attention (2022)
 - 004: Adam: A Method for Stochastic Optimization (2014)
 - 005: Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014)
