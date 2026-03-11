@@ -15,6 +15,7 @@ Focus areas: **Deep Learning · MLSys · LLM Systems · Distributed Systems**
 |---|-------|------|----------|-------|--------|
 | 001 | [Attention Is All You Need](./papers/001-attention-is-all-you-need/) | 2017 | Transformer | ~280 | ✅ |
 | 002 | [LoRA: Low-Rank Adaptation](./papers/002-lora/) | 2021 | Fine-tuning | ~100 | ✅ |
+| 003 | [FlashAttention](./papers/003-flashattention/) | 2022 | ML Systems | ~170 | ✅ |
 
 ## Philosophy
 
