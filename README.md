@@ -23,6 +23,8 @@
 | 001 | [Attention Is All You Need](./papers/001-attention-is-all-you-need/README.md) ([中文](./papers/001-attention-is-all-you-need/README.zh.md)) | 2017 | Transformer | ~280 | ✅ |
 | 002 | [LoRA: Low-Rank Adaptation](./papers/002-lora/README.md) ([中文](./papers/002-lora/README.zh.md)) | 2021 | Fine-tuning | ~100 | ✅ |
 | 003 | [FlashAttention](./papers/003-flashattention/README.md) ([中文](./papers/003-flashattention/README.zh.md)) | 2022 | ML Systems | ~170 | ✅ |
+| 004 | [Adam: A Method for Stochastic Optimization](./papers/004-adam/README.md) ([中文](./papers/004-adam/README.zh.md)) | 2014 | Optimization | ~140 | ✅ |
+| 005 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](./papers/005-dropout/README.md) ([中文](./papers/005-dropout/README.zh.md)) | 2014 | Regularization | ~180 | ✅ |
 
 ---
 

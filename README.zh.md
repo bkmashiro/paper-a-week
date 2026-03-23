@@ -23,6 +23,8 @@
 | 001 | [Attention Is All You Need（中文解析）](./papers/001-attention-is-all-you-need/README.zh.md) ([English](./papers/001-attention-is-all-you-need/README.md)) | 2017 | Transformer | ~280 | ✅ |
 | 002 | [LoRA：低秩适配（中文解析）](./papers/002-lora/README.zh.md) ([English](./papers/002-lora/README.md)) | 2021 | 微调 | ~100 | ✅ |
 | 003 | [FlashAttention（中文解析）](./papers/003-flashattention/README.zh.md) ([English](./papers/003-flashattention/README.md)) | 2022 | ML 系统 | ~170 | ✅ |
+| 004 | [Adam：一种随机优化方法（中文解析）](./papers/004-adam/README.zh.md) ([English](./papers/004-adam/README.md)) | 2014 | 优化器 | ~140 | ✅ |
+| 005 | [Dropout：一种简单防止神经网络过拟合的方法（中文解析）](./papers/005-dropout/README.zh.md) ([English](./papers/005-dropout/README.md)) | 2014 | 正则化 | ~180 | ✅ |
 
 ---
 

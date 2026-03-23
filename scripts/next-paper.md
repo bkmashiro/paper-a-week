@@ -3,11 +3,11 @@
 ## Done
 
 - 002: LoRA: Low-Rank Adaptation of Large Language Models (2021) ✅
+- 003: FlashAttention: Fast and Memory-Efficient Exact Attention (2022) ✅
+- 004: Adam: A Method for Stochastic Optimization (2014) ✅
+- 005: Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014) ✅
 
 ## Upcoming
-- 003: FlashAttention: Fast and Memory-Efficient Exact Attention (2022)
-- 004: Adam: A Method for Stochastic Optimization (2014)
-- 005: Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014)
 - 006: Batch Normalization (2015)
 - 007: ResNet: Deep Residual Learning for Image Recognition (2015)
 - 008: BERT: Pre-training of Deep Bidirectional Transformers (2018)
