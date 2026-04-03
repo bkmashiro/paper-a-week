@@ -8,7 +8,7 @@
 - 005: Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014) ✅
 
 ## Upcoming
-- 006: Batch Normalization (2015)
+- 006: Batch Normalization (2015) ✅
 - 007: ResNet: Deep Residual Learning for Image Recognition (2015)
 - 008: BERT: Pre-training of Deep Bidirectional Transformers (2018)
 - 009: MapReduce: Simplified Data Processing on Large Clusters (2004)

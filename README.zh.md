@@ -25,6 +25,7 @@
 | 003 | [FlashAttention（中文解析）](./papers/003-flashattention/README.zh.md) ([English](./papers/003-flashattention/README.md)) | 2022 | ML 系统 | ~170 | ✅ |
 | 004 | [Adam：一种随机优化方法（中文解析）](./papers/004-adam/README.zh.md) ([English](./papers/004-adam/README.md)) | 2014 | 优化器 | ~140 | ✅ |
 | 005 | [Dropout：一种简单防止神经网络过拟合的方法（中文解析）](./papers/005-dropout/README.zh.md) ([English](./papers/005-dropout/README.md)) | 2014 | 正则化 | ~180 | ✅ |
+| 006 | [批归一化：通过减少内部协变量偏移加速深度网络训练（中文解析）](./papers/006-batch-normalization/README.zh.md) ([English](./papers/006-batch-normalization/README.md)) | 2015 | 训练技术 | ~200 | ✅ |
 
 ---
 
