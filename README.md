@@ -26,6 +26,7 @@
 | 004 | [Adam: A Method for Stochastic Optimization](./papers/004-adam/README.md) ([中文](./papers/004-adam/README.zh.md)) | 2014 | Optimization | ~140 | ✅ |
 | 005 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](./papers/005-dropout/README.md) ([中文](./papers/005-dropout/README.zh.md)) | 2014 | Regularization | ~180 | ✅ |
 | 006 | [Batch Normalization: Accelerating Deep Network Training](./papers/006-batch-normalization/README.md) ([中文](./papers/006-batch-normalization/README.zh.md)) | 2015 | Training Techniques | ~200 | ✅ |
+| 007 | [Deep Residual Learning for Image Recognition](./papers/007-resnet/README.md) ([中文](./papers/007-resnet/README.zh.md)) | 2015 | Deep Learning | ~270 | ✅ |
 
 ---
 
