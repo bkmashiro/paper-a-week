@@ -10,11 +10,11 @@
 - [x] 006: Batch Normalization: Accelerating Deep Network Training (2015) ✅
 - [x] 007: ResNet: Deep Residual Learning for Image Recognition (2015) ✅
 - [x] 008: BERT: Pre-training of Deep Bidirectional Transformers (2018) ✅
+- [x] 009: GAN: Generative Adversarial Networks (2014) ✅
 
 ## Upcoming
 
 ### Deep Learning Fundamentals
-- [ ] 009: GAN: Generative Adversarial Networks (2014)
 - [ ] 010: Word2Vec: Distributed Representations of Words and Phrases (2013)
 - [ ] 011: Dropout as a Bayesian Approximation (2016)
 - [ ] 012: Layer Normalization (2016)
