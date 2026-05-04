@@ -29,6 +29,7 @@
 | 007 | [Deep Residual Learning for Image Recognition](./papers/007-resnet/README.md) ([中文](./papers/007-resnet/README.zh.md)) | 2015 | Deep Learning | ~270 | ✅ |
 | 008 | [BERT: Pre-training of Deep Bidirectional Transformers](./papers/008-bert/README.md) ([中文](./papers/008-bert/README.zh.md)) | 2018 | NLP / Pre-training | ~230 | ✅ |
 | 009 | [GAN: Generative Adversarial Networks](./papers/009-gan/README.md) ([中文](./papers/009-gan/README.zh.md)) | 2014 | Generative Models | ~290 | ✅ |
+| 010 | [Word2Vec: Distributed Representations of Words and Phrases](./papers/010-word2vec/README.md) ([中文](./papers/010-word2vec/README.zh.md)) | 2013 | NLP / Embeddings | ~270 | ✅ |
 
 ---
 
