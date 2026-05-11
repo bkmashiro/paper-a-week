@@ -12,11 +12,11 @@
 - [x] 008: BERT: Pre-training of Deep Bidirectional Transformers (2018) ✅
 - [x] 009: GAN: Generative Adversarial Networks (2014) ✅
 - [x] 010: Word2Vec: Distributed Representations of Words and Phrases (2013) ✅
+- [x] 011: Dropout as a Bayesian Approximation (2016) ✅
 
 ## Upcoming
 
 ### Deep Learning Fundamentals
-- [ ] 011: Dropout as a Bayesian Approximation (2016)
 - [ ] 012: Layer Normalization (2016)
 - [ ] 013: EfficientNet: Rethinking Model Scaling for CNNs (2019)
 - [ ] 014: GELU: Gaussian Error Linear Units (2016)
@@ -52,3 +52,10 @@
 - [ ] 038: PPO: Proximal Policy Optimization Algorithms (2017)
 - [ ] 039: SAC: Soft Actor-Critic — Off-Policy Maximum Entropy RL (2018)
 - [ ] 040: AlphaCode: Competition-Level Code Generation (2022)
+
+### Graph & Geometric Learning
+- [ ] 041: Graph Attention Networks (ICLR 2018)
+- [ ] 042: Graph Convolutional Networks: Semi-Supervised Classification (ICLR 2017)
+- [ ] 043: DeepWalk: Online Learning of Social Representations (KDD 2014)
+- [ ] 044: GraphSAGE: Inductive Representation Learning on Large Graphs (NeurIPS 2017)
+- [ ] 045: PointNet: Deep Learning on Point Sets for 3D Classification (CVPR 2017)
