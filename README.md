@@ -30,6 +30,7 @@
 | 008 | [BERT: Pre-training of Deep Bidirectional Transformers](./papers/008-bert/README.md) ([中文](./papers/008-bert/README.zh.md)) | 2018 | NLP / Pre-training | ~230 | ✅ |
 | 009 | [GAN: Generative Adversarial Networks](./papers/009-gan/README.md) ([中文](./papers/009-gan/README.zh.md)) | 2014 | Generative Models | ~290 | ✅ |
 | 010 | [Word2Vec: Distributed Representations of Words and Phrases](./papers/010-word2vec/README.md) ([中文](./papers/010-word2vec/README.zh.md)) | 2013 | NLP / Embeddings | ~270 | ✅ |
+| 012 | [Layer Normalization](./papers/012-layer-normalization/README.md) ([中文](./papers/012-layer-normalization/README.zh.md)) | 2016 | Training Techniques | ~280 | ✅ |
 
 ---
 

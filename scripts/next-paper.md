@@ -13,11 +13,11 @@
 - [x] 009: GAN: Generative Adversarial Networks (2014) ✅
 - [x] 010: Word2Vec: Distributed Representations of Words and Phrases (2013) ✅
 - [x] 011: Dropout as a Bayesian Approximation (2016) ✅
+- [x] 012: Layer Normalization (2016) ✅
 
 ## Upcoming
 
 ### Deep Learning Fundamentals
-- [ ] 012: Layer Normalization (2016)
 - [ ] 013: EfficientNet: Rethinking Model Scaling for CNNs (2019)
 - [ ] 014: GELU: Gaussian Error Linear Units (2016)
 - [ ] 015: Mamba: Linear-Time Sequence Modeling with Selective State Spaces (2023)
