@@ -31,6 +31,7 @@
 | 009 | [GAN: Generative Adversarial Networks](./papers/009-gan/README.md) ([中文](./papers/009-gan/README.zh.md)) | 2014 | Generative Models | ~290 | ✅ |
 | 010 | [Word2Vec: Distributed Representations of Words and Phrases](./papers/010-word2vec/README.md) ([中文](./papers/010-word2vec/README.zh.md)) | 2013 | NLP / Embeddings | ~270 | ✅ |
 | 012 | [Layer Normalization](./papers/012-layer-normalization/README.md) ([中文](./papers/012-layer-normalization/README.zh.md)) | 2016 | Training Techniques | ~280 | ✅ |
+| 013 | [EfficientNet: Rethinking Model Scaling for CNNs](./papers/013-efficientnet/README.md) ([中文](./papers/013-efficientnet/README.zh.md)) | 2019 | Architecture Design | ~290 | ✅ |
 
 ---
 
